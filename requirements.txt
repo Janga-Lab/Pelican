@@ -1,0 +1,9 @@
+itertools
+h5py
+numpy
+re
+os
+argparse
+keras
+scikit-learn
+tensorflow
